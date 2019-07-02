@@ -1,0 +1,12 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh; /* needed for container min-height */
+}
+ 
+div#content {
+  min-height: calc(100vh - 20px); /* real browsers */
+   
+  background-image: url(http://www.securelifeinsuranceplan.com/wp-content/uploads/2018/05/The-Right-Way-to-File-an-Insurance-Claim.jpg)
+}
